@@ -1,13 +1,10 @@
-remote_theme: pmarsceill/just-the-docs
-color_scheme: "light"
-title: CS-770 HCI
-subtitle: "CS/Psych/EdPsych-770 Human-Computer Interaction"
-author: Professor Mutlu
-description: "CS/Psych/EdPsych-770 Human-Computer Interaction, Fall 2021, Professor Mutlu, University of Wisconsin--Madison"
+remote_theme: 
+color_scheme: 
+title: 
+subtitle: 
+author: 
+description: 
 search_enabled: true
-footer_content: "Copyright &copy 2021 Professor Bilge Mutlu"
+footer_content: 
 header_pages:
   - index.md
-  - schedule.md
-  - syllabus.md
-
